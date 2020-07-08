@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "description": "the proxy for adding cors headers to any url",
   "dependencies": {
-    "request": "~2.9.3"
+    "request": "~2.88.2"
   }
 }
